@@ -91,6 +91,29 @@ section {
     color: #1d4ed8;
     margin-bottom: 25px;
 }
+.hero {
+    height: 300px;
+    background-image: url("images/download.jpg"); /* YOUR IMAGE */
+    background-size: cover;        /* Fill full area */
+    background-position: center;   /* Center image */
+    background-repeat: no-repeat;  /* No repeat */
+}
+body {
+    background-image: url("images/download.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+body {
+    background-image: url("images/download.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.hero {
+    border: 5px solid red;
+}
+
 
 /* GRID */
 .grid {
